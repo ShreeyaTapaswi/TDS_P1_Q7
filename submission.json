@@ -1,0 +1,6 @@
+{
+  "prompt": "A tailor in a dimly lit workshop, pressing an ornate, impossibly elaborate suit onto a single mannequin. The suit has been stitched so tightly and precisely to every curve, wrinkle, and imperfection of that one mannequin that it is covered in hundreds of tiny darts, tucks, and custom seams following every accidental bump and scratch on the mannequin's surface. Nearby, three other plain mannequins stand untouched — the suit would clearly never fit any of them. The tailor looks proud and obsessive. Photorealistic, warm workshop lighting, shallow depth of field, cinematic. No text, no labels, no diagrams.",
+  "model": "Gemini",
+  "concept": "overfitting",
+  "metaphor": "A suit stitched to every accidental wrinkle of one mannequin fits it perfectly but cannot fit any other — the model memorizes noise instead of generalizing."
+}
